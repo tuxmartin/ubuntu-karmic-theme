@@ -1,0 +1,10 @@
+Package: ubuntu-karmic-theme
+Version: 13.04-1
+Priority: optional
+Depends: gnome-panel, gnome-human-icon-theme, human-icon-theme, human-theme, human-icon-theme
+Architecture: all
+Installed-Size: 144
+Maintainer: Martin Vancl - https://github.com/tuxmartin/ubuntu-karmic-theme
+Description: Nove Ubuntu (13.04) se vzhledem Ubuntu 9.10 (Karmic Koala)
+ https://github.com/tuxmartin/ubuntu-karmic-theme
+ .

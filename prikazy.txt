@@ -1,0 +1,35 @@
+sudo apt-get install gnome-panel gnome-human-icon-theme human-icon-theme human-theme human-icon-theme
+
+###
+gsettings set org.gnome.desktop.wm.preferences button-layout 'menu:minimize,maximize,close'
+
+gsettings set org.gnome.desktop.interface ubuntu-overlay-scrollbars false
+
+gsettings set org.gnome.desktop.interface gtk-theme "Radiance"
+gsettings set org.gnome.desktop.interface icon-theme "ubuntu-mono-light"
+gsettings set org.gnome.desktop.interface cursor-theme "DMZ-White"
+gsettings set org.gnome.desktop.wm.preferences theme "Human"
+
+gsettings set org.gnome.desktop.background show-desktop-icons true
+gsettings set org.gnome.nautilus.desktop volumes-visible true
+gsettings set org.gnome.desktop.interface menus-have-icons true
+###
+
+
+
+#Disable F10 in gnome-terminal
+mkdir -p ~/.config/gtk-3.0
+cat<<EOF > ~/.config/gtk-3.0/gtk.css
+
+@binding-set NoKeyboardNavigation {
+     unbind "<shift>F10"
+}
+
+* {
+     gtk-key-bindings: NoKeyboardNavigation
+}
+
+EOF
+
+
+

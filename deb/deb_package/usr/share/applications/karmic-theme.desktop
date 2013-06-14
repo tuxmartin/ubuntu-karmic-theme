@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Nastavit vzhled Ubuntu 9.10
+Comment=Nove Ubuntu (13.04) se vzhledem Ubuntu 9.10 (Karmic Koala)
+Exec=/usr/local/bin/karmic-theme
+Terminal=true
+Type=Application
+Icon=/usr/share/karmic-theme/ubuntu-karmic-icon.png
+Encoding=UTF-8
+Categories=GTK;GNOME;Settings;X-GNOME-PersonalSettings;DesktopSettings;
+
