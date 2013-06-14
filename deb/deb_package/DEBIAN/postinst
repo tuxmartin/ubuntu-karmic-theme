@@ -1,5 +1,5 @@
 #!/bin/sh
 
-xdg-open 'https://github.com/tuxmartin/ubuntu-karmic-theme#navod-na-instalaci'
+#xdg-open 'https://github.com/tuxmartin/ubuntu-karmic-theme#navod-na-instalaci'
 
 
