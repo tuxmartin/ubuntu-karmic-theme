@@ -19,6 +19,9 @@ Ukázka vzhledu
      ![3.](https://raw.github.com/tuxmartin/ubuntu-karmic-theme/master/navod/3_vybrat.png "3.") 
   4. Spustime program na nastaveni prostredi 
      ![4.](https://raw.github.com/tuxmartin/ubuntu-karmic-theme/master/navod/4_spustit.png "4.") 
+3. Vysledek
+  ![Ukázka vzhledu](https://raw.github.com/tuxmartin/ubuntu-karmic-theme/master/navod/vzhled.png "Ukázka vzhledu") 
+
 
 
 
