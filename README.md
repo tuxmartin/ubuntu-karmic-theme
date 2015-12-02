@@ -25,3 +25,7 @@ Ukázka vzhledu
 
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tuxmartin/ubuntu-karmic-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
